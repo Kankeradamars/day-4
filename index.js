@@ -26,7 +26,7 @@ async function findOne(){
                 <h3 class="style1">Longitude:${element.longitude} </h3><hr>
                 <h3 class="style1">Population:${element.population} </h3><hr>
                 <h3 class="style1">Rank:${element.rank} </h3><hr>
-                <h3 class="style1">Grouth:${element.grouth_from_2000_to_2013} </h3><hr>
+            
                 
             </div>`;
             html += htmlSegment;
